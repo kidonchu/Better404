@@ -1,6 +1,3 @@
-app/code/local/Magentodevtool/Better404/Block/404.php   app/code/local/Magentodevtool/Better404/Block/404.php
-app/code/local/Magentodevtool/Better404/etc/config.xml  app/code/local/Magentodevtool/Better404/etc/config.xml
-app/code/local/Magentodevtool/Better404/Model/Lint.php  app/code/local/Magentodevtool/Better404/Model/Lint.php
-app/code/local/Magentodevtool/Better404/Model/Observer.php  app/code/local/Magentodevtool/Better404/Model/Observer.php
-app/design/frontend/base/default/template/magentodevtool_better404/404.phtml    app/design/frontend/base/default/template/magentodevtool_better404/404.phtml
-app/etc/modules/Magentodevtool_Better404.xml                app/etc/modules/Magentodevtool_Better404.xml
+app/code/local/Magentodevtool/Better404                             app/code/local/Magentodevtool/Better404
+app/etc/modules/Magentodevtool_Better404.xml                        app/etc/modules/Magentodevtool_Better404.xml
+app/design/frontend/base/default/template/magentodevtool_better404  app/design/frontend/base/default/template/magentodevtool_better404
